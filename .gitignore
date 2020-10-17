@@ -1,4 +1,7 @@
-.idea
+.idea/
 .classpath
 .project
 .settings
+.iml
+.settings/
+bin/
