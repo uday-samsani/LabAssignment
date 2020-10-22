@@ -28,7 +28,7 @@ public class Solution {
 		} else {
 			System.out.println("It is not ordered");
 		}
-
+		input.close();
 	}
 
 }

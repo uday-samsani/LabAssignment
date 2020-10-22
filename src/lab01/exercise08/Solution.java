@@ -26,6 +26,7 @@ public class Solution {
 			System.out.println("Number is a power of 2");
 		}else {
 			System.out.println("Number is not a power of 2");			
-		}	
+		}
+		input.close();
 	}
 }

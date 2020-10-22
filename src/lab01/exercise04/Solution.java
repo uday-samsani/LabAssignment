@@ -20,6 +20,7 @@ public class Solution {
 				System.out.println(number);
 			}
 		}
+		input.close();
 	}
 
 }

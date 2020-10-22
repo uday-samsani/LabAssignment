@@ -14,6 +14,7 @@ public class Solution {
 		System.out.println("Enter te number");
 		int number = input.nextInt();
 		System.out.println(calculateDifference(number));
+		input.close();
 	}
 
 }

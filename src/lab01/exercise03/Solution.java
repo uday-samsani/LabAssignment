@@ -32,6 +32,7 @@ public class Solution {
 		} else {
 			febanocciRecursive(1, 1, 0, upperLimit);
 		}
+		input.close();
 	}
 
 }

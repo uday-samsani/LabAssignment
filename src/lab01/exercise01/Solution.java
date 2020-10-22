@@ -17,6 +17,7 @@ public class Solution {
 		System.out.println("Enter the number");
 		int number = input.nextInt();
 		System.out.println(addDigitCubes(number));
+		input.close();
 	}
 
 }

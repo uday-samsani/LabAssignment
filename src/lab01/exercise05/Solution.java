@@ -17,6 +17,7 @@ public class Solution {
 		System.out.println("Enter the number upto which should be summed:");
 		int upperLimit = input.nextInt();
 		System.out.println(calculateSum(upperLimit));
+		input.close();
 	}
 
 }

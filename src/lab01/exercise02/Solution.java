@@ -15,6 +15,7 @@ public class Solution {
 		}else {
 			System.out.println("Green");
 		}
+		input.close();
 	}
 
 }
